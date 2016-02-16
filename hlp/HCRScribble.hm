@@ -1,0 +1,34 @@
+// MAKEHELP.BAT generated Help Map file.  Used by HCRSCRIBBLE.HPJ. 
+ 
+// Commands (ID_* and IDM_*) 
+HID_RECO_RECOGNIZE                      0x18008
+HID_MENUITEM32777                       0x18009
+HID_MENUITEM32778                       0x1800A
+HID_MENUITEM32779                       0x1800B
+HID_OPTIONS_8DIR                        0x1800C
+HID_OPTIONS_DIRCH                       0x1800D
+HID_MENUITEM32782                       0x1800E
+HID_MENUITEM32783                       0x1800F
+HID_MENUITEM32784                       0x18010
+HID_MENUITEM32785                       0x18011
+HID_MENUITEM32786                       0x18012
+HID_MENUITEM32787                       0x18013
+HID_MENUITEM32790                       0x18016
+HID_MENUITEM32791                       0x18017
+HID_MENUITEM32793                       0x18019
+HID_MENUITEM32795                       0x1801B
+HID_MENUITEM32796                       0x1801C
+HID_MENUITEM32797                       0x1801D
+HID_MENUITEM32799                       0x1801F
+HID_OPTIONS_IDIRCH                      0x18020
+ 
+// Prompts (IDP_*) 
+ 
+// Resources (IDR_*) 
+HIDR_MAINFRAME                          0x20080
+HIDR_HCRSCRTYPE                         0x20081
+ 
+// Dialogs (IDD_*) 
+HIDD_ABOUTBOX                           0x20064
+ 
+// Frame Controls (IDW_*) 
